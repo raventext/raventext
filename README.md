@@ -95,8 +95,7 @@ Industrial reporting platform developed during internship work to automate dynam
 * Patent Filed: Adaptive Visual Command Execution System for Remote Communication
 * Microsoft Azure Fundamentals (AZ-900)
 * Oracle OCI Generative AI Certification
-* CGPA: 8.85 – VIT Vellore
-
+* Completed McKinsey Forward Program (Leadership, Problem Solving & Professional Development)
 ---
 
 
