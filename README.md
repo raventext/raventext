@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./banner.png" alt="Raghav Nayyar Banner" width="100%" />
+</p>
+
 # Hi, I'm Raghav Nayyar 👋
 
 ### Computer Science Engineer | Backend Developer | AI Enthusiast
